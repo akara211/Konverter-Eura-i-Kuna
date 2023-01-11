@@ -17,3 +17,7 @@ Ekstenziju bi bilo lakše podići na Chrome Web Store, no kako Hrvatska nije pod
 >**6.** Otvorit će vam se Windows Explorer te pronađite i odaberite folder "Konverter Valuta" na mjestu gdje ste ga instalirali prethodno.  
 
 Ako ste sve korake ispravno napravili trebala bi vam se pojaviti dodatna ikonica desno od Chrome-ovog *search bara*/tražilice
+
+
+## Dodatne crtice
+Ukoliko vam se sviđa moj rad i htjeli biste me podržati u daljnjem razvoju aplikacije, pristupite patreon stranici za donacije, također tamo možete i dodavati svoje sugestije kako unaprijediti aplikaciju te na taj način pomoći u razvoju.
