@@ -21,3 +21,5 @@ Ako ste sve korake ispravno napravili trebala bi vam se pojaviti dodatna ikonica
 
 ## Dodatne crtice
 Ukoliko vam se sviđa moj rad i htjeli biste me podržati u daljnjem razvoju aplikacije, pristupite patreon stranici za donacije, također tamo možete i dodavati svoje sugestije kako unaprijediti aplikaciju te na taj način pomoći u razvoju.
+
+[Lets go to Quora](https://www.quora.com)
