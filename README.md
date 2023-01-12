@@ -19,5 +19,7 @@ Ekstenziju bi bilo lakše podići na Chrome Web Store, no kako Hrvatska nije pod
 Ako ste sve korake ispravno napravili trebala bi vam se pojaviti dodatna ikonica desno od Chrome-ovog *search bara*/tražilice
 
 
-## Dodatne crtice
-Ukoliko vam se sviđa moj rad i htjeli biste me podržati u daljnjem razvoju aplikacije, pristupite patreon stranici za donacije, također tamo možete i dodavati svoje sugestije kako unaprijediti aplikaciju te na taj način pomoći u razvoju.
+# Donacije i Community
+Ukoliko vam se sviđa moj rad i htjeli biste me podržati u daljnjem razvoju aplikacije, pristupite patreon stranici za donacije, također tamo možete i dodavati svoje sugestije kako unaprijediti aplikaciju te na taj način pomoći u razvoju.e.
+
+patreon: [akara211](https://patreon.com/user?u=86650949&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
